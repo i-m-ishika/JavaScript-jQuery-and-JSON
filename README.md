@@ -1,1 +1,3 @@
-# JavaScript-jQuery-and-JSON
+## JavaScript-jQuery-and-JSON
+
+Coursera. University of Michigan. Prof. Charles Severance 
